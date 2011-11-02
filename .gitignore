@@ -3,3 +3,5 @@
 kicks.pdf
 *~
 *.toc
+*.backup
+.*swp
