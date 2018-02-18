@@ -1,8 +1,10 @@
 *.aux
-*.log
-kicks.pdf
-*~
-*.toc
 *.backup
-.*swp
+*.fdb_latexmk
+*.fls
+*.log
 *.out
+*.toc
+*~
+.*.swp
+kicks.pdf
